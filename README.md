@@ -1,8 +1,6 @@
-# Khắc Nghĩa - Vọc vạch
 ![Easy Frontend banner](https://res.cloudinary.com/easy-frontend/image/upload/v1598840121/blog/easy-frontend-banner-cropped_yjw0g0.jpg)
 
-# Paul Nguyen - Passionate Web Developer, Frontend Trainer
-
+# Khắc Nghĩa - Vọc vạch
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ReactJS ❤
