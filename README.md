@@ -1,6 +1,6 @@
 ![Easy Frontend banner](https://res.cloudinary.com/easy-frontend/image/upload/v1598840121/blog/easy-frontend-banner-cropped_yjw0g0.jpg)
 
-# Khắc Nghĩa - Vọc vạch
+# Khắc Nghĩa - Vọc vạch cùng Ánh iu 😘
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ReactJS ❤
