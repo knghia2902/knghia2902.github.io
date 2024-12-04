@@ -1,4 +1,4 @@
-![Easy Frontend banner](https://res.cloudinary.com/easy-frontend/image/upload/v1598840121/blog/easy-frontend-banner-cropped_yjw0g0.jpg)
+![Easy Frontend banner](https://khacnghia.s3-hcm-r1.longvan.net/Images/Screenshot%202024-12-05%20at%2001-10-40%20Venngage.png)
 
 # Khắc Nghĩa - Vọc vạch cùng ai
 - Open and friendly.
