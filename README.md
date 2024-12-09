@@ -1,6 +1,6 @@
 ![Easy Frontend banner](https://khacnghia.s3-hcm-r1.longvan.net/Images/Screenshot%202024-12-05%20at%2001-10-40%20Venngage.png)
 
-# Khắc Nghĩa - Vọc vạch cùng ai
+# Khắc Nghĩa
 - Open and friendly.
 - Love to learn new things, especially things related to....
 - Enjoy working with Linux ❤
