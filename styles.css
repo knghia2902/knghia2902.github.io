@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #2E2E2E;
+    display: flex;
+}
+.sidebar {
+    width: 250px;
+    height: 100vh;
+    background-color: #1E1E1E;
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.profile {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.profile img {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+.profile-info {
+    display: flex;
+    flex-direction: column;
+}
+.profile-info span {
+    font-size: 14px;
+}
+.search-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.search-box input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3E3E3E;
+    color: white;
+}
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.buttons button {
+    width: 48%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+.buttons .note {
+    background-color: #00C853;
+}
+.buttons .more {
+    background-color: #3E3E3E;
+}
+.buttons .task {
+    background-color: #AA00FF;
+}
+.buttons .event {
+    background-color: #FF6D00;
+}
+.menu {
+    list-style: none;
+    padding: 0;
+}
+.menu li {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    cursor: pointer;
+}
+.menu li i {
+    margin-right: 10px;
+}
+.menu li:hover {
+    background-color: #3E3E3E;
+    border-radius: 5px;
+}
+.upgrade {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #FFEB3B;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.note-panel {
+    width: 250px;
+    height: 100vh;
+    background-color: #1E1E1E;
+    color: white;
+    overflow: hidden;
+    transition: width 0.3s;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.note-panel .note-item {
+    background-color: #3E3E3E;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.note-panel .note-item .delete-note {
+    color: red;
+    cursor: pointer;
+}
+.note-panel .add-note {
+    background-color: #00C853;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+.note-editor {
+    width: calc(100% - 500px);
+    height: 100vh;
+    background-color: #1E1E1E;
+    color: white;
+    overflow: hidden;
+    transition: width 0.3s;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.note-editor textarea {
+    width: 100%;
+    height: calc(100% - 40px);
+    background-color: #3E3E3E;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+    resize: none;
+}
